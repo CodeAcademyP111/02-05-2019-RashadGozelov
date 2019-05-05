@@ -1,0 +1,95 @@
+.navbar{
+    height:70px;
+}
+.navbar-brand{
+    margin-left: 15px;
+}
+#navbarNav{
+    margin-right: 15px;
+}
+
+/*container*/
+.con-2{
+    width: 70%;
+}
+/*container*/
+
+.item{
+    margin-top: 22px;
+}
+.item h1{
+    font-size: 50px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.item p{
+    font-size: 18px;
+    align-self:center;
+}
+.rowh{
+    height: 270px;
+    text-align: center;
+}
+#mo{
+    font-size: 35px;
+    color: silver;
+}
+.btn-sign{
+    padding: 8px 58px;
+    font-size: 18px;
+}
+.btn-get{
+    padding: 8px 76px;
+    font-size: 18px
+}
+#headfree{
+    margin-bottom: 0px;
+    font-size: 27px;
+    background-color: rgba(0,0,0,.125);
+    padding: 10px;
+    text-align: center;
+}
+/*Tekstlerin ortalanmasi*/
+.text-center{
+    text-align: center;
+}
+.d{
+    height: 320px;
+    padding-top: 60px;
+    border-top: 1px solid silver;
+}
+.d p{
+    color: darkgray;
+}
+#menu3{
+    margin-top: 70px;
+}
+#menu3 .d span{
+    background-color: rebeccapurple;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    padding: 0px 8px;
+}
+ul{
+    padding-left: 95px;
+}
+
+li{
+    color: darkgray;
+}
+li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#li{
+    font-weight: 500;
+    color: black;
+    font-size: 19px;
+    text-decoration: none;
+    cursor: auto;
+}
+/* @media screen and (max-width:798px){
+    #menu3{
+        width: 100%;
+    }
+} */
